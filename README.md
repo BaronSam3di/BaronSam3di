@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YorkshireGold because I like good tea. I work for IBM as a software engineer.
-- 👀 I’m interested in security, data science, algorithms and design patterns.
+- 👀 I’m interested in Malware, Pentesting, Data Science, Algorithms and Design Patterns.
 - 🌱 I’m currently learning 100 algorithms in 100 days. Next up is design patterns.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate Offensive Cyber projects that are data driven.
 - 📫 How to reach me g dot o w d e n (at) g m ail dot co m .
 
 <!---

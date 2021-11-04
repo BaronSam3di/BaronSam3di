@@ -4,47 +4,47 @@
 
 ## Top 3 all humans must read
 
-**The Lessons of History** by Ariel Durant and Will Durant
+**The Lessons of History** by `Ariel Durant and Will Durant`
 
 **Man's Search for Meaning** `By: Viktor E. Frankl`
 
-**Super Thinking: Upgrade Your Reasoning and Make Better Decisions with Mental Models** By: Gabriel Weinberg , Lauren McCann
+**Super Thinking: Upgrade Your Reasoning and Make Better Decisions with Mental Models** By: `Gabriel Weinberg , Lauren McCann`
 
 
 
 ## Highly recomended
 
-**Never Split the Difference: Negotiating as if Your Life Depended on It** By: Chris Voss , Tahl Raz
+**Never Split the Difference: Negotiating as if Your Life Depended on It** By: `Chris Voss , Tahl Raz`
 
-**The Sovereign Individual: Mastering the Transition to the Information Age** By: James Dale Davidson , Peter Thiel - preface , William Rees-Mogg
+**The Sovereign Individual: Mastering the Transition to the Information Age** By: `James Dale Davidson , Peter Thiel - preface , William Rees-Mogg`
 
-**Thinking in Systems: A Primer** By: Donella H. Meadows
+**Thinking in Systems: A Primer** By: `Donella H. Meadows`
 
-**The Laws of Human Nature** By: Robert Greene
+**The Laws of Human Nature** By: `Robert Greene`
 
-**The Fourth Industrial Revolution** By: Klaus Schwab
+**The Fourth Industrial Revolution** By: `Klaus Schwab`
 
-**Principles: Life and Work** By: Ray Dalio
+**Principles: Life and Work** By: `Ray Dalio`
 
-**The Art of War [Blackstone Version]** By: translation by John Minford , Sun Tzu
+**The Art of War [Blackstone Version]** By: `translation by John Minford , Sun Tzu`
 
-**The 33 Strategies of War** By: Robert Greene
+**The 33 Strategies of War** By: `Robert Greene`
 
-**Getting to Yes: Negotiating an Agreement Without Giving In** By: Roger Fisher , William Ury , Bruce Patton
+**Getting to Yes: Negotiating an Agreement Without Giving In** By: `Roger Fisher , William Ury , Bruce Patton`
 
-**Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition** By: Kerry Patterson
+**Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition** By: `Kerry Patterson`
 
-**Negotiation: The Economist** By: Gavin Kennedy
+**Negotiation: The Economist** By: `Gavin Kennedy`
 
-**Thinking, Fast and Slow** By: Daniel Kahneman
+**Thinking, Fast and Slow** By: `Daniel Kahneman`
 
-**Think Again: The Power of Knowing What You Don't Know** By: Adam Grant
+**Think Again: The Power of Knowing What You Don't Know** By: `Adam Grant`
 
-**Superforecasting: The Art and Science of Prediction** By: Philip Tetlock , Dan Gardner
+**Superforecasting: The Art and Science of Prediction** By: `Philip Tetlock , Dan Gardner`
 
-**So Good They Can't Ignore You** By: Cal Newport
+**So Good They Can't Ignore You** By: `Cal Newport`
 
-**Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones** By: James Clear
+**Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones** By: `James Clear`
 
 ## Others I have enjoyed
 

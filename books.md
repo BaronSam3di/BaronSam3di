@@ -2,7 +2,7 @@
 # Books I have read and recomend 
 
 
-## Top 3 all humans must read
+## Top books all humans must read
 
 **The Lessons of History** by `Ariel Durant and Will Durant`
 
@@ -10,6 +10,7 @@
 
 **Super Thinking: Upgrade Your Reasoning and Make Better Decisions with Mental Models** By: `Gabriel Weinberg , Lauren McCann`
 
+**The Fourth Turning: An American Prophecy** by `William Strauss, Neil Howe`
 
 
 ## Highly recomended

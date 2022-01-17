@@ -17,6 +17,8 @@
 
 **Never Split the Difference: Negotiating as if Your Life Depended on It** By: `Chris Voss , Tahl Raz`
 
+**Radical Candor: How to Get What You Want by Saying What You Mean** By: `Kim Scott`
+
 **The Sovereign Individual: Mastering the Transition to the Information Age** By: `James Dale Davidson , Peter Thiel - preface , William Rees-Mogg`
 
 **Thinking in Systems: A Primer** By: `Donella H. Meadows`
@@ -24,6 +26,8 @@
 **The Laws of Human Nature** By: `Robert Greene`
 
 **The Fourth Industrial Revolution** By: `Klaus Schwab`
+
+**Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail** By: `Ray Dalio`
 
 **Principles: Life and Work** By: `Ray Dalio`
 

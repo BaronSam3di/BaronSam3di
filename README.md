@@ -1,4 +1,4 @@
-- 👋 Hi, I like good tea. I work for IBM as an Ethical Hacker.
+- 👋 Hi
 - 👀 I’m interested in Humans, World History, Malware, Pentesting, Data Science, Algorithms and Design Patterns.
 - 📚 The books I consume are listed [here](https://github.com/YorkshireGold/YorkshireGold/blob/main/books.md).
 - 💞️ I’m looking to collaborate Offensive Cyber projects that are data driven.

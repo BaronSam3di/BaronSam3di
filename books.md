@@ -12,6 +12,7 @@
 
 **The Fourth Turning: An American Prophecy** by `William Strauss, Neil Howe`
 
+**A Path Through the Jungle** by `Steve Peters`
 
 ## Highly recomended
 

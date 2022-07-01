@@ -6,4 +6,6 @@
 
 _The first 90% of the code accounts for 90% of the development time.The remaining 10% of the code accounts for the other 90% of the development time"_ – Tom cargo, 1985 Bell labs
 
-"I can either do it quickly, or I can do it properly"  
+"I can either do it quickly, or I can do it properly" - Stuart Reeves 
+
+"“Culture eats strategy for breakfast” - Peter Drucker

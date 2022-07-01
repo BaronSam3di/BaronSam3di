@@ -5,3 +5,5 @@
 **"It always takes longer than you expect, even when you take into account Hofstadter's Law."** - Hofstadter's law
 
 _The first 90% of the code accounts for 90% of the development time.The remaining 10% of the code accounts for the other 90% of the development time"_ – Tom cargo, 1985 Bell labs
+
+"I can either do it quickly, or I can do it properly"  

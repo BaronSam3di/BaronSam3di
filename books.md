@@ -14,6 +14,8 @@
 
 **A Path Through the Jungle** by `Steve Peters`
 
+**Four Thousand Weeks: Time Management for Mortals** by `Oliver Burkeman`
+
 ## Highly recomended
 
 **Never Split the Difference: Negotiating as if Your Life Depended on It** By: `Chris Voss , Tahl Raz`

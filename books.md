@@ -18,6 +18,8 @@
 
 ## Highly recomended
 
+**Mindfuck: Inside Cambridge Analytica's Plot to Break the World** By: `Christopher Wylie`
+
 **Never Split the Difference: Negotiating as if Your Life Depended on It** By: `Chris Voss , Tahl Raz`
 
 **Radical Candor: How to Get What You Want by Saying What You Mean** By: `Kim Scott`

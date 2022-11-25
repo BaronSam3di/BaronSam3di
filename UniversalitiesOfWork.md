@@ -15,4 +15,4 @@
 **"Whether you think you can or you cant, you're probably right.** - Henry Ford
 
 
-"“Real improvement only can take place when there is a front-line focus based on direct observation of current conditions where work is done.”
+"“Real improvement only can take place when there is a front-line focus based on direct observation of current conditions where work is done.” - John Shook : Managing to Learn

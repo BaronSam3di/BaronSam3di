@@ -16,3 +16,5 @@
 
 
 "“Real improvement only can take place when there is a front-line focus based on direct observation of current conditions where work is done.” - John Shook : Managing to Learn
+
+“Mistakes happen. Celebrate finding them.”
